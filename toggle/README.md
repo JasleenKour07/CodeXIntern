@@ -1,10 +1,6 @@
 # Light/Dark Mode Toggle
 
-This project implements a simple light/dark mode toggle using HTML, CSS, and JavaScript. The user can switch between light and dark themes by clicking the toggle button, which smoothly transitions the background and text colors.
-
-## Features
-- Light and dark mode functionality.
-- Smooth transitions for background color and button movement.
+This project allows users to switch between light and dark modes. The toggle button provides a smooth transition between the two themes.
 
 ## Technologies Used
 - HTML
@@ -13,8 +9,10 @@ This project implements a simple light/dark mode toggle using HTML, CSS, and Jav
 
 ## How to Use
 1. Clone the repository.
-2. Open `index.html` in a web browser.
+2. Open `index.html` in your browser.
 3. Click the toggle button to switch modes.
 
 ## License
-This project is licensed under the MIT License.
+MIT License. Feel free to modify and use it!
+
+Enjoy toggling! 🌟
