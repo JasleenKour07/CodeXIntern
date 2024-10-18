@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #235;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-container {
+    height: 200px;
+    width: 500px;
+    background-color: #abc; 
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    row-gap: 10px; /* Added more gap between elements */
+}
+
+.heading {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.password {
+    height: 30px;
+    width: 200px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.length {
+    outline: none;
+    border: 1px solid white;
+    border-radius: 20px;
+    height: 30px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.btn {
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    border: none;
+    background-color: #333;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
